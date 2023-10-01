@@ -24,7 +24,10 @@
     <ClCompile Include="BOJ_2739.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ_8393cpp.cpp">
+    <ClCompile Include="BOJ_8393.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_25304.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
